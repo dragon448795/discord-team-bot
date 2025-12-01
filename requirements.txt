@@ -1,3 +1,5 @@
 flask
 discord.py
 flask-cors
+# For Discord bot
+
